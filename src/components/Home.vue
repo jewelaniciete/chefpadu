@@ -10,7 +10,7 @@
         <p class="pt-5 text-lg md:text-xl font-normal">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id id consequat, eu faucibus nulla. Ultrices mattis lacus, sed maecenas nascetur. </p>
       </div>
       <div class="w-full mt-20 order-1 lg:order-2 ">
-        <img src="..\assets\Logo.png" alt="">
+        <img src="..\assets\logo.png" alt="">
       </div>
     </div>
   </section>
